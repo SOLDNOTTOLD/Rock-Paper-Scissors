@@ -1,0 +1,1 @@
+This is my first attempt at creating a rock, paper, scissors game through script. The game is played through a prompt that pops up and the results are viewed through the console log.
